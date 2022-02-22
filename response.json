@@ -2,7 +2,6 @@
   "responseCode": 200,
   "message": "Success",
   "data": [
-    [
       {
         "InstituteTestId": 6563,
         "InstituteTestUserId": 607831,
@@ -383,6 +382,5 @@
         "TotalQuestions": 20,
         "Status": null
       }
-    ]
   ]
 }
