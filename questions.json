@@ -2,6 +2,10 @@
     "responseCode": 200,
     "message": "Success",
     "name": "Raghu",
+    "result": {
+        "id": 10,
+        "test": "analsysis"
+    },
     "data": [
         {
             "InstituteTestId": 6510,
