@@ -1,6 +1,7 @@
 {
     "responseCode": 200,
     "message": "Success",
+    "name": "Raghu",
     "data": [
         {
             "InstituteTestId": 6510,
